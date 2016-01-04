@@ -1,2 +1,2 @@
 # amazonSamples
-Sample code for varius Amazon's technologies
+Sample code for various Amazon's technologies
